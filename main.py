@@ -1,5 +1,5 @@
 print ("hi hi ha ha")
 
-x=55
-y=9
+x=502
+y=98
 print (x+y)
